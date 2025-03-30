@@ -1,1 +1,2 @@
 streamlit
+( For this you need write pip install streamlit in command promt )
